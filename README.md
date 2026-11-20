@@ -1,4 +1,4 @@
-# File History Updates
+# File History Tracking
 
 Track added, modified, and deleted files on your Windows PC. File History Updates compares each scan with the last complete inventory and keeps the results on your device.
 
